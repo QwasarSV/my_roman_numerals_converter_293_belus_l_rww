@@ -2,19 +2,29 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+
+Write a function to convert normal numbers to Roman Numerals.
+The Romans wrote numbers using letters - I, V, X, L, C, D, M.
 
 ## Description
-TODO - How have you solved the problem?
+
+by mapping the values and then runnning an each.
+solution is similaire to count your change. 
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+no install
 
 ## Usage
-TODO - How does it work?
+just setup some variables and call the function.
+
+
+```ruby
+  test = 2022
+  p my_roman_numerals_converter(test)
+
 ```
-./my_project argument1 argument2
-```
+
+Ave caesar, croix, V, baton !
 
 ### The Core Team
 * [Lorris BELUS](//github.com/Lbelus) - Developer
